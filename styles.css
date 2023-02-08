@@ -1,0 +1,64 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+}
+h1{
+    line-height: 0.5;
+    font-size: 500%;
+    font-family: 'Caveat', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Sassy Frass', cursive;
+font-family: 'Satisfy', cursive;
+}
+h2{
+    font-size: 2.5rem;
+    font-family: 'Caveat', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Sassy Frass', cursive;
+    font-family: 'Satisfy', cursive;
+}
+h3{
+    font-family: 'Caveat', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Sassy Frass', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Solitreo', cursive;
+}
+p{
+    font-family: 'Caveat', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-family: 'Sacramento', cursive;
+    font-family: 'Sassy Frass', cursive;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Solitreo', cursive;
+}
+.top{
+    background-color: 93BFCF;
+    padding-top:100px;
+    position: relative;
+} 
+
+.topcl{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.bottomcl{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+
+}
+.bottom-container{
+font-style: oblique;
+}
+.imgme{
+    border-radius: 100%;
+}
